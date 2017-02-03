@@ -1,2 +1,2 @@
-# stat13ucla
+# stats13ucla
 Teaching material for the STATISTICS 13 class
